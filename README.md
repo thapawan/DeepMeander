@@ -193,5 +193,4 @@ Functions in FloodMMAT
 
 105      # Visualize flood risk results
 106      visualize_flood_risk(flood_risk_path)
-# Contact
-Open for collaboration and welcome any valuable feedback or suggestions for improvement. If you have any queries about the algorithm, open for discussion and contact: pthapa2@crimson.ua.edu.
+
