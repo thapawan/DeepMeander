@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| <a href="https://yourwebsite.com"><img src="(https://github.com/thapawan/your_repo_logo/blob/main/logo.png)" alt="Your Logo" width="300"></a> | This repository provides an R package and source code for integrated flood risk assessment, incorporating automated meander classification using deep learning and hydraulic modeling, specifically tailored for the Southeastern United States. It is developed by [Pawan Thapa/University of Alabama], [Department of Geography and the Environment], United States. |
+| <a href="https://yourwebsite.com"><img src="(https://github.com/thapawan/MMATCWE/blob/main/Logo/channels4_profile.jpg)" alt="Your Logo" width="300"></a> | This repository provides an R package and source code for integrated flood risk assessment, incorporating automated meander classification using deep learning and hydraulic modeling, specifically tailored for the Southeastern United States. It is developed by [Pawan Thapa/University of Alabama], [Department of Geography and the Environment], United States. |
 
 ## Background
 
